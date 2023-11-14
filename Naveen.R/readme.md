@@ -1,5 +1,5 @@
 >django-admin --version
-
+<!-- my path (base) C:\1 My Work\django\Naveen.R\telusko> -->
 
     # List all the environments
     conda env list
